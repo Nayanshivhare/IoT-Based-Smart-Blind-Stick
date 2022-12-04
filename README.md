@@ -7,3 +7,9 @@ In this project, we propose a device for the visually impaired which is focused 
 
 The problem gets worse when there is an obstacle in front of them. Blind stick is an innovative stick designed for visually disabled people for improved survival. The paper presents a theoretical system concept to provide a smart ultrasonic aid for blind people. The system is intended to provide overall measures – Artificial vision and detection. The aim of the overall system is to provide a low cost and efficient aid for a visually impaired person who gets a sense of artificial vision by providing information about the environmental scenario of static and dynamic objects around them.
 
+
+![image](https://user-images.githubusercontent.com/66699491/205518342-03751550-e6d2-4602-81a2-4a60b262ebf1.png)
+
+![image](https://user-images.githubusercontent.com/66699491/205518368-6d964e3d-7c66-494d-8e66-266db54a4aae.png)
+
+
